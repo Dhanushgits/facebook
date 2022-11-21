@@ -10,3 +10,6 @@ added messaging apps messenger
 
 update 3
 sliptscreen support added
+
+update 4 
+camera filters added
