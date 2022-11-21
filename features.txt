@@ -1,0 +1,3 @@
+update 1 (main)
+added faster login
+facebook lite option available..
