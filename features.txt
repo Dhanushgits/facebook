@@ -1,3 +1,8 @@
 update 1 (main)
 added faster login
 facebook lite option available..
+
+update 2 (2nd branch)
+
+added calls 
+added messaging apps messenger

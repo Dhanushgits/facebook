@@ -1,4 +1,10 @@
-update 1 (main)
+update 1 
 security
 network 
-server 
+server
+
+
+update 2 (2nd branch)
+security(fixed)
+network (partially fixed)
+server(pemding)
