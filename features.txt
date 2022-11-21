@@ -6,3 +6,7 @@ update 2 (2nd branch)
 
 added calls 
 added messaging apps messenger
+
+
+update 3
+sliptscreen support added
